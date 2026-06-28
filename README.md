@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0806-number-of-lines-to-write-string](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0819-most-common-word) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
