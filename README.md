@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0806-number-of-lines-to-write-string](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0819-most-common-word) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
