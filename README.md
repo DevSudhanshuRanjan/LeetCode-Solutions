@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0806-number-of-lines-to-write-string](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0819-most-common-word) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Graph Theory
 |  |
 | ------- |
