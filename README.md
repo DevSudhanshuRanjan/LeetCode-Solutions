@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0622-design-circular-queue](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0806-number-of-lines-to-write-string](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0819-most-common-word) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [1670-design-front-middle-back-queue](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 ## Recursion
 |  |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 ## Queue
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
