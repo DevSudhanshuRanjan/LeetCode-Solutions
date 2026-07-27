@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0283-move-zeroes) |
