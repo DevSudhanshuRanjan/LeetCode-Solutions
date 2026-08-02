@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0877-stone-game](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0806-number-of-lines-to-write-string](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0819-most-common-word) |
+| [0877-stone-game](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -325,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1670-design-front-middle-back-queue](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1670-design-front-middle-back-queue) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
