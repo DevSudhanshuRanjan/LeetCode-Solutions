@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -332,4 +335,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
