@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0977-squares-of-a-sorted-array](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
