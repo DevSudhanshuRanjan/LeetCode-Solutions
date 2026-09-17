@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0283-move-zeroes) |
