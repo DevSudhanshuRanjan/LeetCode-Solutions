@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0877-stone-game](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
