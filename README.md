@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0301-remove-invalid-parentheses](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
