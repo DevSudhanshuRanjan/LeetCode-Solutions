@@ -1,0 +1,19 @@
+class Solution {
+public:
+    int calculateScore(int a, int b) {
+        int s1 = 0, s2 = 0;
+
+        while(a) {
+            s1 += (a & 1);
+            a >>= 1;
+        }
+
+        while(b) {
+            s2 += (b & 1);
+            b >>= 1;
+        }
+
+        if(s1 >= s2) return s1 * s2;
+        return s1 == 0 ? 0 : s2 / s1;
+    }
+};
