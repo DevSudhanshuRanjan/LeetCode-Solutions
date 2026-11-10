@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3620-network-recovery-pathways](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+| [3693-climbing-stairs-ii](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+| [3693-climbing-stairs-ii](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
