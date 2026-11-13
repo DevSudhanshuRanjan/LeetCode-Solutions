@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
 |  |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Graph Theory
 |  |
 | ------- |
@@ -464,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -499,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1670-design-front-middle-back-queue](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Data Stream
 |  |
 | ------- |
@@ -593,4 +599,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
