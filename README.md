@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3620-network-recovery-pathways](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3536-maximum-product-of-two-digits](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/DevSudhanshuRanjan/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
